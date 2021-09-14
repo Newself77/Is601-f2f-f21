@@ -1,4 +1,4 @@
 # Hello IS601 Fall 2021
 ## This is the introduction to Git source code management
-# Gerald Williams
+# Gerald 
 ## My Collabortive partner is Josh
